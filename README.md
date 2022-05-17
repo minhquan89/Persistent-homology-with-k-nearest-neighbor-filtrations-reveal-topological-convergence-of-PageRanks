@@ -3,3 +3,8 @@ We provide the code for the paper Persistent-homology-with-k-nearest-neighbor-fi
 
 The following Jupyter notebooks contain:
 
+
+
+
+The following python files included:
+
